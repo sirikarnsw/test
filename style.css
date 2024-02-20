@@ -3,6 +3,7 @@ body{
     margin: 0;
 }
 
-text{
-    font-family: "Lucida Console", "Courier New", monospace;
+.text{
+    font-family: "Helvetica";
+    text-align: center;
 }
