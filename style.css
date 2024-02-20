@@ -2,3 +2,7 @@ body{
     padding: 0;
     margin: 0;
 }
+
+text{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
