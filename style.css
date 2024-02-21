@@ -7,3 +7,12 @@ body{
     font-family: "Helvetica";
     text-align: center;
 }
+
+.grey-text{
+    font-family: "Helvetica";
+    color: grey;
+}
+
+.head{
+    margin: 10px;
+}
