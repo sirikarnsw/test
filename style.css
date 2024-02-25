@@ -4,7 +4,14 @@ h1 {
     font-size: 16px;
     position: relative;
     top: 50px;
-    margin: 0px 90px;
+    left: 30px;
+    right: 30px;
+}
+
+h2 {
+    border: 1px solid black;
+    position: relative;
+    margin: 150px 30px;
 }
 
 div {
@@ -24,6 +31,7 @@ div {
     display: flex;
     min-width: 30px;
     min-height: 30px;
+    margin: 0px 0px;
 }
 
 .nav-bar {
